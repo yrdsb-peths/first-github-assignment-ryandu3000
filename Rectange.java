@@ -15,3 +15,8 @@ public class Rectangle()
   }
   
 }
+
+public void run()
+{
+  System.out.println(Rectangle.getArea());
+}
